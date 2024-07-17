@@ -19,3 +19,11 @@ box-sizing:border-box;
 .bg-green{
     background: green;
 }
+
+.heading{
+    font-size: 25px;
+}
+
+html{
+    font-family: sans-serif;
+}
