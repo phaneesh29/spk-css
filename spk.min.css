@@ -13,3 +13,9 @@ box-sizing:border-box;
     color: white;
     background: #000;
 }
+.bg-red{
+    background: red;
+}
+.bg-green{
+    background: green;
+}
