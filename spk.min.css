@@ -24,3 +24,11 @@
         height: 100px;
         width: 100px;
     }
+    
+.heading{
+    font-size: 25px;
+}
+
+html{
+    font-family: sans-serif;
+}
